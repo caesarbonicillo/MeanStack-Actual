@@ -1,2 +1,2 @@
 # MeanStack-Actual
-The Actual mean stack
+The actual MEAN stack repo
