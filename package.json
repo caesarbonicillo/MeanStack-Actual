@@ -1,0 +1,27 @@
+{
+  "name": "meanstack-actual",
+  "version": "1.0.0",
+  "description": "The actual MEAN stack repo",
+  "main": "express.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "mongoose": "^5.7.14",
+    "mongodb": "^3.3.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caesarbonicillo/MeanStack-Actual.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caesarbonicillo/MeanStack-Actual/issues"
+  },
+  "homepage": "https://github.com/caesarbonicillo/MeanStack-Actual#readme"
+}
